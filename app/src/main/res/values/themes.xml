@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GunkanjimaReservationAlert" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/icon_bg</item>
+        <item name="colorPrimaryVariant">#060F1E</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/rust</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/icon_bg</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="OutlinedButtonRust" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textColor">@color/rust</item>
+        <item name="strokeColor">@color/rust</item>
+        <item name="rippleColor">@color/rust</item>
+    </style>
+</resources>

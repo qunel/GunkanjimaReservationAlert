@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background">
+
+    <!-- ヘッダー：軍艦島シルエット -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/icon_bg"
+        android:gravity="center"
+        android:paddingTop="8dp"
+        android:paddingBottom="0dp">
+
+        <ImageView
+            android:layout_width="220dp"
+            android:layout_height="110dp"
+            android:src="@drawable/ic_launcher_foreground"
+            android:scaleType="fitCenter"
+            android:contentDescription="軍艦島シルエット" />
+    </LinearLayout>
+
+    <!-- コンテンツ -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- 追加ボタン -->
+        <Button
+            android:id="@+id/btnAddDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="＋ キャンセル待ち日程を追加"
+            style="@style/OutlinedButtonRust" />
+
+        <!-- リストのラベル -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="キャンセル待ち日程"
+            android:textColor="@color/concrete"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.12"
+            android:layout_marginBottom="8dp" />
+
+        <!-- 空の場合のメッセージ -->
+        <TextView
+            android:id="@+id/textEmpty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="まだ日程が追加されていません"
+            android:textColor="@color/text_secondary"
+            android:gravity="center"
+            android:paddingTop="32dp"
+            android:paddingBottom="24dp"
+            android:visibility="gone" />
+
+        <!-- リスト -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerViewTargets"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:clipToPadding="false"
+            android:paddingBottom="8dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

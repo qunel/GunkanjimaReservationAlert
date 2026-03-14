@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    軍艦島（端島）シルエット
+    護岸壁のベース + 建物のスカイライン + 海の波
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 島シルエット（護岸 + 建物群） -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+        M18,80 L18,71
+        L23,71 L23,61
+        L27,61 L27,49
+        L33,49 L33,61
+        L37,61 L37,41
+        L44,41 L44,54
+        L48,54 L48,34
+        L56,34 L56,51
+        L60,51 L60,43
+        L67,43 L67,57
+        L71,57 L71,47
+        L76,47 L76,61
+        L80,61 L80,71
+        L90,71 L90,80
+        Z" />
+
+    <!-- 海面の波（薄め） -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.35"
+        android:pathData="
+        M8,85 Q18,81 28,85 Q38,89 48,85 Q58,81 68,85 Q78,89 88,85 Q98,81 108,85
+        L108,91 Q98,87 88,91 Q78,95 68,91 Q58,87 48,91 Q38,95 28,91 Q18,87 8,91 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.18"
+        android:pathData="
+        M0,93 Q14,89 28,93 Q42,97 56,93 Q70,89 84,93 Q96,97 108,93
+        L108,100 Q96,96 82,100 Q68,104 54,100 Q40,96 26,100 Q12,104 0,100 Z" />
+
+</vector>

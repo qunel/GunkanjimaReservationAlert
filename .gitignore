@@ -1,0 +1,21 @@
+# Local development environment
+local.properties
+
+# Build outputs
+build/
+app/build/
+*.apk
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+.gradle/
+captures/
+
+# Kotlin/Java
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
