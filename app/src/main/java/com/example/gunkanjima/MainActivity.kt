@@ -125,7 +125,8 @@ class MainActivity : AppCompatActivity() {
                 val scrapeResult = CalendarScraper.scrape()
                 prefs.saveKnownCompanies(scrapeResult.companies)
 
-                val available = mutableListOf<String>()
+                // Pair: message to company
+                val available = mutableListOf<Pair<String, String>>()
                 val stateUpdates = mutableMapOf<String, String>()
 
                 for (avail in scrapeResult.availabilities) {
@@ -139,8 +140,12 @@ class MainActivity : AppCompatActivity() {
                     stateUpdates[key] = avail.status
 
                     if (avail.status == "ok" || avail.status == "limited") {
-                        val label = "${avail.company}（${avail.period}）"
-                        if (label !in available) available.add(label)
+                        val entry = avail.company to avail.period
+                        if (available.none { it.first == avail.company && it.second == avail.period }) {
+                            val label = if (avail.status == "ok") "空きあり ○" else "空き限定 △"
+                            val msg = "${target.date} ${avail.period}  $label\nタップして予約する"
+                            available.add(msg to avail.company)
+                        }
                     }
                 }
 
@@ -149,12 +154,12 @@ class MainActivity : AppCompatActivity() {
                 state.putAll(stateUpdates)
                 prefs.savePreviousState(state)
 
-                if (available.isNotEmpty()) {
-                    val message = available.joinToString("\n") { "$it で予約が可能です。" }
+                for ((message, company) in available) {
                     NotificationHelper.sendNotification(
                         applicationContext,
-                        "${target.date} 予約可能！",
-                        message
+                        "【${company}】予約空きが出ました！",
+                        message,
+                        company
                     )
                 }
             } catch (_: Exception) { }
@@ -203,28 +208,47 @@ class MainActivity : AppCompatActivity() {
             .show()
     }
 
-    /** 既存ターゲットの会社選択変更ダイアログ */
+    /** 既存ターゲットの設定変更ダイアログ（AM/PM + ツアー会社） */
     private fun showCompanyDialog(position: Int) {
         val known = prefs.getKnownCompanies()
         if (known.isEmpty()) {
             Toast.makeText(this, "先に監視を開始してツアー会社リストを取得してください", Toast.LENGTH_SHORT).show()
             return
         }
-        val target   = targets[position]
-        val selected = target.selectedCompanies
-        val checked  = BooleanArray(known.size) { selected.isEmpty() || known[it] in selected }
+        val target = targets[position]
+
+        val view = layoutInflater.inflate(R.layout.dialog_add_target, null)
+        val checkAM = view.findViewById<android.widget.CheckBox>(R.id.dialogCheckAM)
+        val checkPM = view.findViewById<android.widget.CheckBox>(R.id.dialogCheckPM)
+        checkAM.isChecked = target.am
+        checkPM.isChecked = target.pm
+
+        val companyGroup = view.findViewById<android.widget.LinearLayout>(R.id.companyGroup)
+        val companyCheckBoxes = known.map { name ->
+            android.widget.CheckBox(this).apply {
+                text = name
+                isChecked = target.selectedCompanies.isEmpty() || name in target.selectedCompanies
+                companyGroup.addView(this)
+            }
+        }
 
         AlertDialog.Builder(this)
-            .setTitle("${target.date}のツアー会社を選択")
-            .setMultiChoiceItems(known.toTypedArray(), checked) { _, which, isChecked ->
-                checked[which] = isChecked
-            }
+            .setTitle("${target.date}の設定を変更")
+            .setView(view)
             .setPositiveButton("OK") { _, _ ->
-                val newSelected = known.filterIndexed { i, _ -> checked[i] }
+                val am = checkAM.isChecked
+                val pm = checkPM.isChecked
+                if (!am && !pm) {
+                    Toast.makeText(this, "AM / PM どちらかを選択してください", Toast.LENGTH_SHORT).show()
+                    return@setPositiveButton
+                }
+                val newSelected = known.filterIndexed { i, _ -> companyCheckBoxes[i].isChecked }
                 val companies = if (newSelected.size == known.size) emptyList() else newSelected
-                targets[position] = target.copy(selectedCompanies = companies)
+                val updated = target.copy(am = am, pm = pm, selectedCompanies = companies)
+                targets[position] = updated
                 prefs.saveMonitorTargets(targets)
                 adapter.notifyItemChanged(position)
+                checkNewTargetImmediately(updated)
             }
             .setNegativeButton("キャンセル", null)
             .show()

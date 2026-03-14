@@ -22,17 +22,15 @@ class MonitorWorker(context: Context, params: WorkerParameters) : Worker(context
                 "${a.date}__${a.company}__${a.period}" to a.status
             }
 
-            // 監視対象のスロットで「空きが増えた」ものを収集
-            val alerts = mutableListOf<String>()
+            // 監視対象のスロットで「空きが増えた」ものを収集（会社ごと）
+            // Pair: message to company
+            val alerts = mutableListOf<Pair<String, String>>()
 
             for (target in targets) {
                 for (avail in scrapeResult.availabilities) {
-                    // 日付マッチ
                     if (!CalendarScraper.dateMatches(avail.date, target.date)) continue
-                    // AM/PMフィルタ
                     if (avail.period == "AM" && !target.am) continue
                     if (avail.period == "PM" && !target.pm) continue
-                    // 会社フィルタ（空 = 全社）
                     if (target.selectedCompanies.isNotEmpty() &&
                         avail.company !in target.selectedCompanies) continue
 
@@ -40,22 +38,23 @@ class MonitorWorker(context: Context, params: WorkerParameters) : Worker(context
                     val prevStatus = previousState[key]
                     val newStatus  = avail.status
 
-                    // キャンセル/未知 → 空きあり or 限定的 に変化した場合だけ通知
                     val wasUnavailable = prevStatus == "cancel" || prevStatus == null
                     val isAvailable    = newStatus == "ok" || newStatus == "limited"
 
                     if (wasUnavailable && isAvailable) {
                         val label = if (newStatus == "ok") "空きあり ○" else "空き限定 △"
-                        alerts.add("${avail.date} ${avail.period}  ${avail.company}  $label")
+                        val msg = "${avail.date} ${avail.period}  $label\nタップして予約する"
+                        alerts.add(msg to avail.company)
                     }
                 }
             }
 
-            if (alerts.isNotEmpty()) {
+            for ((message, company) in alerts) {
                 NotificationHelper.sendNotification(
                     applicationContext,
-                    "軍艦島ツアーに空きが出ました！",
-                    alerts.joinToString("\n")
+                    "【${company}】予約空きが出ました！",
+                    message,
+                    company
                 )
             }
 
