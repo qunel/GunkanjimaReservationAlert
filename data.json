@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T19:59:49+09:00",
+  "updated_at": "2026-03-14T20:50:52+09:00",
   "companies": [
     "軍艦島コンシェルジュ",
     "⾼島海上交通",
@@ -132,7 +132,7 @@
       "date": "2026-03-16",
       "company": "軍艦島コンシェルジュ",
       "period": "AM",
-      "status": "cancel"
+      "status": "limited"
     },
     {
       "date": "2026-03-16",
@@ -774,7 +774,7 @@
       "date": "2026-03-26",
       "company": "シーマン商会",
       "period": "PM",
-      "status": "limited"
+      "status": "cancel"
     },
     {
       "date": "2026-03-26",
@@ -936,7 +936,7 @@
       "date": "2026-03-29",
       "company": "やまさ海運",
       "period": "AM",
-      "status": "cancel"
+      "status": "limited"
     },
     {
       "date": "2026-03-29",
@@ -1110,7 +1110,7 @@
       "date": "2026-04-01",
       "company": "⾼島海上交通",
       "period": "PM",
-      "status": "limited"
+      "status": "cancel"
     },
     {
       "date": "2026-04-01",
@@ -1170,7 +1170,7 @@
       "date": "2026-04-02",
       "company": "⾼島海上交通",
       "period": "PM",
-      "status": "limited"
+      "status": "cancel"
     },
     {
       "date": "2026-04-02",
@@ -3234,7 +3234,7 @@
       "date": "2026-05-06",
       "company": "シーマン商会",
       "period": "PM",
-      "status": "limited"
+      "status": "cancel"
     },
     {
       "date": "2026-05-06",
