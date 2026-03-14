@@ -22,9 +22,9 @@ class MonitorWorker(context: Context, params: WorkerParameters) : Worker(context
                 "${a.date}__${a.company}__${a.period}" to a.status
             }
 
-            // 監視対象のスロットで「空きが増えた」ものを収集（会社ごと）
-            // Pair: message to company
-            val alerts = mutableListOf<Pair<String, String>>()
+            // 監視対象のスロットで「空きが増えた」ものを収集
+            // (date, company) -> list of (period, label)
+            val alertMap = mutableMapOf<Pair<String, String>, MutableList<Pair<String, String>>>()
 
             for (target in targets) {
                 for (avail in scrapeResult.availabilities) {
@@ -43,18 +43,22 @@ class MonitorWorker(context: Context, params: WorkerParameters) : Worker(context
 
                     if (wasUnavailable && isAvailable) {
                         val label = if (newStatus == "ok") "空きあり ○" else "空き限定 △"
-                        val msg = "${avail.date} ${avail.period}  $label\nタップして予約する"
-                        alerts.add(msg to avail.company)
+                        val groupKey = avail.date to avail.company
+                        alertMap.getOrPut(groupKey) { mutableListOf() }.add(avail.period to label)
                     }
                 }
             }
 
-            for ((message, company) in alerts) {
+            for ((groupKey, periods) in alertMap) {
+                val (date, company) = groupKey
+                val periodText = periods.sortedBy { it.first }.joinToString("・") { it.first }
+                val msg = "$date  $periodText"
                 NotificationHelper.sendNotification(
                     applicationContext,
                     "【${company}】予約空きが出ました！",
-                    message,
-                    company
+                    msg,
+                    company,
+                    date
                 )
             }
 

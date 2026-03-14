@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    軍艦島（端島）ヘッダー用横長シルエット
+    viewport 280x72 : 島の縦横比に合わせた横長フォーマット
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="280dp"
+    android:height="72dp"
+    android:viewportWidth="280"
+    android:viewportHeight="72">
+
+    <!--
+        島シルエット（護岸 + 建物群 左→右）
+        x=45〜235（190px幅、viewport中央に配置）
+        プロファイル：左端低め→中央左でピーク→右へ向かって緩やかに低下
+    -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+        M45,58
+        L45,52 L58,52
+        L58,44 L70,44
+        L70,36 L82,36
+        L82,28 L96,28
+        L96,36 L102,36
+        L102,16 L118,16
+        L118,26 L126,26
+        L126,18 L140,18
+        L140,28 L148,28
+        L148,22 L160,22
+        L160,34 L170,34
+        L170,28 L180,28
+        L180,40 L192,40
+        L192,46 L204,46
+        L204,52 L218,52
+        L218,56 L235,56
+        L235,58
+        Z" />
+
+    <!-- 海面の波（薄め） -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.35"
+        android:pathData="
+        M0,61 Q35,57 70,61 Q105,65 140,61 Q175,57 210,61 Q245,65 280,61
+        L280,67 Q245,63 210,67 Q175,71 140,67 Q105,63 70,67 Q35,71 0,67 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.18"
+        android:pathData="
+        M0,68 Q40,64 80,68 Q120,72 160,68 Q200,64 240,68 Q260,72 280,68
+        L280,75 Q260,71 240,75 Q200,79 160,75 Q120,71 80,75 Q40,79 0,75 Z" />
+
+</vector>

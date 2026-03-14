@@ -125,8 +125,8 @@ class MainActivity : AppCompatActivity() {
                 val scrapeResult = CalendarScraper.scrape()
                 prefs.saveKnownCompanies(scrapeResult.companies)
 
-                // Pair: message to company
-                val available = mutableListOf<Pair<String, String>>()
+                // (date, company) -> list of (period, label)
+                val alertMap = mutableMapOf<Pair<String, String>, MutableList<Pair<String, String>>>()
                 val stateUpdates = mutableMapOf<String, String>()
 
                 for (avail in scrapeResult.availabilities) {
@@ -140,12 +140,9 @@ class MainActivity : AppCompatActivity() {
                     stateUpdates[key] = avail.status
 
                     if (avail.status == "ok" || avail.status == "limited") {
-                        val entry = avail.company to avail.period
-                        if (available.none { it.first == avail.company && it.second == avail.period }) {
-                            val label = if (avail.status == "ok") "空きあり ○" else "空き限定 △"
-                            val msg = "${target.date} ${avail.period}  $label\nタップして予約する"
-                            available.add(msg to avail.company)
-                        }
+                        val label = if (avail.status == "ok") "空きあり ○" else "空き限定 △"
+                        val groupKey = avail.date to avail.company
+                        alertMap.getOrPut(groupKey) { mutableListOf() }.add(avail.period to label)
                     }
                 }
 
@@ -154,12 +151,16 @@ class MainActivity : AppCompatActivity() {
                 state.putAll(stateUpdates)
                 prefs.savePreviousState(state)
 
-                for ((message, company) in available) {
+                for ((groupKey, periods) in alertMap) {
+                    val (date, company) = groupKey
+                    val periodText = periods.sortedBy { it.first }.joinToString("・") { it.first }
+                    val msg = "$date  $periodText"
                     NotificationHelper.sendNotification(
                         applicationContext,
-                        "【${company}】予約空きが出ました！",
-                        message,
-                        company
+                        "【${company}】現在予約可能です",
+                        msg,
+                        company,
+                        date
                     )
                 }
             } catch (_: Exception) { }
