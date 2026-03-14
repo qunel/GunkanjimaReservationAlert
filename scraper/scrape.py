@@ -120,15 +120,18 @@ def scrape_concierge() -> list[dict]:
 # 高島海上交通 / シーマン商会（共通パーサー）
 # ──────────────────────────────────────────────────────
 
-def _parse_cruise_table(soup: BeautifulSoup, year: int, month: int) -> list[dict]:
+def _parse_cruise_table(soup: BeautifulSoup, year: int, month: int,
+                        calendar_id: str = "calendar") -> list[dict]:
     """
     テーブルセルテキスト形式: "14午前便:×午後便:×" を解析する。
-    同じ日付で複数の状態が得られた場合は、より良い方（ok > limited > cancel）を採用。
+    calendar_id: 上陸コースのカレンダーIDを指定（高島="calendar", シーマン全体）
     """
     priority = {"ok": 2, "limited": 1, "cancel": 0, "unknown": -1}
     best: dict[tuple, str] = {}  # (date, period) -> status
 
-    for td in soup.find_all("td"):
+    # 指定IDのdivに絞る（見つからなければ全体を対象）
+    target = soup.find(id=calendar_id) or soup
+    for td in target.find_all("td"):
         text = td.get_text(separator="", strip=True)
         day_match = re.match(r"^(\d{1,2})", text)
         if not day_match:
@@ -149,13 +152,14 @@ def _parse_cruise_table(soup: BeautifulSoup, year: int, month: int) -> list[dict
     return [{"date": k[0], "period": k[1], "status": v} for k, v in best.items()]
 
 
-def _fetch_cruise(url: str, year: int, month: int, extra_data: dict = None) -> list[dict]:
+def _fetch_cruise(url: str, year: int, month: int,
+                  extra_data: dict = None, calendar_id: str = "calendar") -> list[dict]:
     data = {"yearmonth": f"{year:04d}{month:02d}"}
     if extra_data:
         data.update(extra_data)
     resp = requests.post(url, headers=HEADERS, data=data, timeout=30)
     soup = BeautifulSoup(resp.content, "html.parser")
-    return _parse_cruise_table(soup, year, month)
+    return _parse_cruise_table(soup, year, month, calendar_id)
 
 
 def scrape_takashima() -> list[dict]:
@@ -163,7 +167,7 @@ def scrape_takashima() -> list[dict]:
     results = []
     for y, m in next_months(MONTHS_AHEAD):
         try:
-            results.extend(_fetch_cruise(url, y, m))
+            results.extend(_fetch_cruise(url, y, m, calendar_id="calendar"))
         except Exception as e:
             print(f"高島 {y}/{m} error: {e}")
     return results
@@ -174,7 +178,7 @@ def scrape_seaman() -> list[dict]:
     results = []
     for y, m in next_months(MONTHS_AHEAD):
         try:
-            results.extend(_fetch_cruise(url, y, m, {"course": "1"}))
+            results.extend(_fetch_cruise(url, y, m, {"course": "1"}, calendar_id="calendar"))
         except Exception as e:
             print(f"シーマン {y}/{m} error: {e}")
     return results
