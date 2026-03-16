@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-16T09:35:54+09:00",
+  "updated_at": "2026-03-16T09:40:29+09:00",
   "companies": [
     "軍艦島コンシェルジュ",
     "高島海上交通",
@@ -1857,54 +1857,6 @@
       "status": "ok"
     },
     {
-      "date": "2026-03-23",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-23",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-20",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-20",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-19",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-19",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-24",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-24",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-03-21",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -1912,42 +1864,6 @@
     },
     {
       "date": "2026-03-21",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-26",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-26",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-25",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-25",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-17",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-17",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -1965,6 +1881,54 @@
       "status": "cancel"
     },
     {
+      "date": "2026-03-17",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-17",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-23",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-23",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-25",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-25",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-24",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-24",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
       "date": "2026-03-22",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -1972,6 +1936,42 @@
     },
     {
       "date": "2026-03-22",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-20",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-20",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-26",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-26",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-19",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-19",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -1989,25 +1989,13 @@
       "status": "cancel"
     },
     {
-      "date": "2026-03-30",
+      "date": "2026-03-29",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-03-30",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-02",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-03-29",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2025,6 +2013,18 @@
       "status": "cancel"
     },
     {
+      "date": "2026-03-30",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-03-30",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
       "date": "2026-03-28",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2037,13 +2037,13 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2073,18 +2073,6 @@
       "status": "cancel"
     },
     {
-      "date": "2026-03-29",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-03-29",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-04-03",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2097,13 +2085,13 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-07",
+      "date": "2026-04-01",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-07",
+      "date": "2026-04-01",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2116,6 +2104,30 @@
     },
     {
       "date": "2026-04-06",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-07",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2145,37 +2157,13 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-11",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-14",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-14",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-09",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-09",
+      "date": "2026-04-12",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2205,16 +2193,28 @@
       "status": "ok"
     },
     {
-      "date": "2026-04-12",
+      "date": "2026-04-11",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-12",
+      "date": "2026-04-11",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
+    },
+    {
+      "date": "2026-04-14",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-04-14",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
     },
     {
       "date": "2026-04-16",
@@ -2224,18 +2224,6 @@
     },
     {
       "date": "2026-04-16",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-17",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-17",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2265,16 +2253,16 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-21",
+      "date": "2026-04-17",
       "company": "第七ゑびす丸",
       "period": "AM",
-      "status": "ok"
+      "status": "cancel"
     },
     {
-      "date": "2026-04-21",
+      "date": "2026-04-17",
       "company": "第七ゑびす丸",
       "period": "PM",
-      "status": "ok"
+      "status": "cancel"
     },
     {
       "date": "2026-04-20",
@@ -2289,16 +2277,16 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-24",
+      "date": "2026-04-21",
       "company": "第七ゑびす丸",
       "period": "AM",
-      "status": "cancel"
+      "status": "ok"
     },
     {
-      "date": "2026-04-24",
+      "date": "2026-04-21",
       "company": "第七ゑびす丸",
       "period": "PM",
-      "status": "cancel"
+      "status": "ok"
     },
     {
       "date": "2026-04-22",
@@ -2323,6 +2311,18 @@
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
+    },
+    {
+      "date": "2026-04-24",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-24",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
     },
     {
       "date": "2026-04-25",
@@ -2361,18 +2361,6 @@
       "status": "ok"
     },
     {
-      "date": "2026-04-29",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-29",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
       "date": "2026-04-28",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2385,16 +2373,16 @@
       "status": "ok"
     },
     {
-      "date": "2026-05-01",
+      "date": "2026-04-29",
       "company": "第七ゑびす丸",
       "period": "AM",
-      "status": "cancel"
+      "status": "ok"
     },
     {
-      "date": "2026-05-01",
+      "date": "2026-04-29",
       "company": "第七ゑびす丸",
       "period": "PM",
-      "status": "cancel"
+      "status": "ok"
     },
     {
       "date": "2026-04-30",
@@ -2416,6 +2404,30 @@
     },
     {
       "date": "2026-05-02",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-01",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-01",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-05",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-05",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2445,18 +2457,6 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-05",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-05",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-05-06",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2481,18 +2481,6 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-08",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-08",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-05-09",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2503,6 +2491,18 @@
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
+    },
+    {
+      "date": "2026-05-08",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-08",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
     },
     {
       "date": "2026-05-10",
@@ -2529,18 +2529,6 @@
       "status": "ok"
     },
     {
-      "date": "2026-05-13",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-13",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-05-12",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2548,6 +2536,18 @@
     },
     {
       "date": "2026-05-12",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-05-14",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-05-14",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -2565,16 +2565,16 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-14",
+      "date": "2026-05-13",
       "company": "第七ゑびす丸",
       "period": "AM",
-      "status": "ok"
+      "status": "cancel"
     },
     {
-      "date": "2026-05-14",
+      "date": "2026-05-13",
       "company": "第七ゑびす丸",
       "period": "PM",
-      "status": "ok"
+      "status": "cancel"
     },
     {
       "date": "2026-05-16",
@@ -2584,18 +2584,6 @@
     },
     {
       "date": "2026-05-16",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-17",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-17",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2611,6 +2599,18 @@
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
+    },
+    {
+      "date": "2026-05-17",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-17",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
     },
     {
       "date": "2026-05-19",
@@ -2661,13 +2661,13 @@
       "status": "ok"
     },
     {
-      "date": "2026-05-25",
+      "date": "2026-05-24",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-05-25",
+      "date": "2026-05-24",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2685,13 +2685,13 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -2721,18 +2721,6 @@
       "status": "ok"
     },
     {
-      "date": "2026-05-30",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-05-30",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
       "date": "2026-05-28",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2745,13 +2733,13 @@
       "status": "ok"
     },
     {
-      "date": "2026-05-31",
+      "date": "2026-05-30",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "ok"
     },
     {
-      "date": "2026-05-31",
+      "date": "2026-05-30",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -2764,6 +2752,18 @@
     },
     {
       "date": "2026-05-29",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-05-31",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-05-31",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -2817,6 +2817,18 @@
       "status": "ok"
     },
     {
+      "date": "2026-06-05",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-05",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
       "date": "2026-06-06",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2829,13 +2841,13 @@
       "status": "ok"
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-06-08",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "ok"
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-06-08",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -2877,30 +2889,6 @@
       "status": "ok"
     },
     {
-      "date": "2026-06-13",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-13",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-08",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-08",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
       "date": "2026-06-11",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -2920,6 +2908,18 @@
     },
     {
       "date": "2026-06-12",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-13",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-13",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -2958,7 +2958,7 @@
       "date": "2026-03-17",
       "company": "高島海上交通",
       "period": "PM",
-      "status": "limited"
+      "status": "cancel"
     },
     {
       "date": "2026-03-18",
@@ -3090,7 +3090,7 @@
       "date": "2026-03-28",
       "company": "高島海上交通",
       "period": "PM",
-      "status": "cancel"
+      "status": "limited"
     },
     {
       "date": "2026-03-29",
