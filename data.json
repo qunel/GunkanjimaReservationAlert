@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T05:35:27+09:00",
+  "updated_at": "2026-04-05T05:40:22+09:00",
   "companies": [
     "軍艦島コンシェルジュ",
     "高島海上交通",
@@ -8,6 +8,1050 @@
     "第七ゑびす丸"
   ],
   "availabilities": [
+    {
+      "date": "2026-04-05",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-05",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-06",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-08",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-08",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-09",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-04-10",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-10",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-11",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-11",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-12",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-12",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-13",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-13",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-14",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-14",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-15",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-15",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-16",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-16",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-18",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-18",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-19",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-19",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-20",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-20",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-04-21",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-21",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-22",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-04-22",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-04-23",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-23",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-24",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-04-24",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-25",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-25",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-26",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-26",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-27",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-27",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-28",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-04-28",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-29",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-29",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-30",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-30",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-01",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-01",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-02",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-02",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-03",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-03",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-04",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-04",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-05",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-05",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-06",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-06",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-07",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-05-07",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-05-08",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-08",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-09",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-09",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-10",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-10",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-11",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-11",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-12",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-12",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-13",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-13",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-14",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-14",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-15",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-15",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-16",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-16",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-17",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-17",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-18",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-18",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-19",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-19",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-20",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-20",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-21",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-21",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-22",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-22",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-23",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-23",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-24",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-24",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-25",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-25",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-26",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-26",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-05-27",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-27",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-28",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-28",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-29",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-29",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-30",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-30",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-31",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-31",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-01",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-01",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-02",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-02",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-03",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-03",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-04",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-04",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-05",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-05",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-06",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-06",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-07",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-07",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-08",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-08",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-06-09",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-09",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-10",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-10",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-11",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-11",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-12",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-12",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-13",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-13",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-14",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-14",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-15",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-15",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-16",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-16",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-17",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-06-17",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-18",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-18",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-06-19",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-19",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-20",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-20",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-21",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-21",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-06-22",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-22",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-06-23",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-23",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-24",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-06-24",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-25",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-25",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-06-26",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-26",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
+    {
+      "date": "2026-06-27",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-27",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-28",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-28",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "高島海上交通",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-30",
+      "company": "高島海上交通",
+      "period": "PM",
+      "status": "limited"
+    },
     {
       "date": "2026-04-05",
       "company": "シーマン商会",
@@ -3141,25 +4185,25 @@
       "status": "ok"
     },
     {
-      "date": "2026-04-11",
+      "date": "2026-04-09",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-11",
+      "date": "2026-04-09",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-06",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-06",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3189,6 +4233,18 @@
       "status": "cancel"
     },
     {
+      "date": "2026-04-07",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-07",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
       "date": "2026-04-13",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -3201,13 +4257,25 @@
       "status": "ok"
     },
     {
-      "date": "2026-04-06",
+      "date": "2026-04-11",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-06",
+      "date": "2026-04-11",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-08",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-08",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3225,30 +4293,6 @@
       "status": "ok"
     },
     {
-      "date": "2026-04-09",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-09",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-07",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-07",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-04-05",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -3256,54 +4300,6 @@
     },
     {
       "date": "2026-04-05",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-17",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-17",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-18",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-18",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-15",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-15",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-16",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-16",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3321,37 +4317,25 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-22",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-22",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-24",
+      "date": "2026-04-15",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-24",
+      "date": "2026-04-15",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-18",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-18",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3369,37 +4353,73 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-21",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-21",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-28",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-28",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-04-26",
+      "date": "2026-04-24",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-26",
+      "date": "2026-04-24",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-22",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-04-22",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-04-21",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-04-21",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-17",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-23",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-23",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-16",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-16",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3417,18 +4437,6 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-29",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-29",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-04-25",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -3441,25 +4449,13 @@
       "status": "cancel"
     },
     {
-      "date": "2026-04-30",
+      "date": "2026-04-26",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-04-30",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-03",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-03",
+      "date": "2026-04-26",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3477,25 +4473,73 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-02",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-02",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-04-30",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-04-30",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-29",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-29",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-04-28",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-04-28",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-05-03",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-03",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-04",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-04",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3513,30 +4557,6 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-06",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-06",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-08",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-08",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-05-07",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -3544,6 +4564,18 @@
     },
     {
       "date": "2026-05-07",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-06",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-06",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3561,25 +4593,13 @@
       "status": "ok"
     },
     {
-      "date": "2026-05-09",
+      "date": "2026-05-08",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-05-09",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-14",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-14",
+      "date": "2026-05-08",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3595,6 +4615,18 @@
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
+    },
+    {
+      "date": "2026-05-09",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-09",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
     },
     {
       "date": "2026-05-12",
@@ -3621,13 +4653,13 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-14",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-14",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3640,6 +4672,66 @@
     },
     {
       "date": "2026-05-15",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-16",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-16",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-17",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-17",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-21",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-21",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-22",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-22",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-23",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-23",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
@@ -3669,42 +4761,6 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-20",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-05-20",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-05-17",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-17",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-21",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-21",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-05-24",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -3717,28 +4773,16 @@
       "status": "cancel"
     },
     {
-      "date": "2026-05-23",
+      "date": "2026-05-20",
       "company": "第七ゑびす丸",
       "period": "AM",
-      "status": "cancel"
+      "status": "ok"
     },
     {
-      "date": "2026-05-23",
+      "date": "2026-05-20",
       "company": "第七ゑびす丸",
       "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-22",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-22",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
+      "status": "ok"
     },
     {
       "date": "2026-05-25",
@@ -3765,30 +4809,6 @@
       "status": "ok"
     },
     {
-      "date": "2026-05-30",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-30",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-29",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-29",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
       "date": "2026-05-27",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -3813,16 +4833,40 @@
       "status": "ok"
     },
     {
-      "date": "2026-05-31",
+      "date": "2026-05-29",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "cancel"
     },
     {
-      "date": "2026-05-31",
+      "date": "2026-05-29",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "cancel"
+    },
+    {
+      "date": "2026-05-30",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-05-30",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "cancel"
+    },
+    {
+      "date": "2026-06-02",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-02",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
     },
     {
       "date": "2026-06-01",
@@ -3849,16 +4893,16 @@
       "status": "ok"
     },
     {
-      "date": "2026-06-02",
+      "date": "2026-05-31",
       "company": "第七ゑびす丸",
       "period": "AM",
-      "status": "ok"
+      "status": "cancel"
     },
     {
-      "date": "2026-06-02",
+      "date": "2026-05-31",
       "company": "第七ゑびす丸",
       "period": "PM",
-      "status": "ok"
+      "status": "cancel"
     },
     {
       "date": "2026-06-04",
@@ -3873,6 +4917,18 @@
       "status": "ok"
     },
     {
+      "date": "2026-06-06",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-06",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
       "date": "2026-06-05",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -3880,6 +4936,18 @@
     },
     {
       "date": "2026-06-05",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-08",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-08",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -3909,25 +4977,13 @@
       "status": "ok"
     },
     {
-      "date": "2026-06-08",
+      "date": "2026-06-13",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "ok"
     },
     {
-      "date": "2026-06-08",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-10",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-10",
+      "date": "2026-06-13",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -3957,25 +5013,13 @@
       "status": "ok"
     },
     {
-      "date": "2026-06-13",
+      "date": "2026-06-10",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "ok"
     },
     {
-      "date": "2026-06-13",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-06",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-06",
+      "date": "2026-06-10",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -3988,18 +5032,6 @@
     },
     {
       "date": "2026-06-14",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-15",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-15",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -4029,13 +5061,13 @@
       "status": "ok"
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-06-15",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "ok"
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-06-15",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -4053,25 +5085,13 @@
       "status": "ok"
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-06-19",
       "company": "第七ゑびす丸",
       "period": "AM",
       "status": "ok"
     },
     {
-      "date": "2026-06-22",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-23",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-23",
+      "date": "2026-06-19",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -4101,6 +5121,30 @@
       "status": "ok"
     },
     {
+      "date": "2026-06-22",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-22",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-23",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-23",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
       "date": "2026-06-24",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -4120,6 +5164,30 @@
     },
     {
       "date": "2026-06-25",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-28",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-28",
+      "company": "第七ゑびす丸",
+      "period": "PM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-29",
+      "company": "第七ゑびす丸",
+      "period": "AM",
+      "status": "ok"
+    },
+    {
+      "date": "2026-06-29",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -4149,30 +5217,6 @@
       "status": "ok"
     },
     {
-      "date": "2026-06-29",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-29",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-28",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-06-28",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
       "date": "2026-07-02",
       "company": "第七ゑびす丸",
       "period": "AM",
@@ -4180,18 +5224,6 @@
     },
     {
       "date": "2026-07-02",
-      "company": "第七ゑびす丸",
-      "period": "PM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-07-03",
-      "company": "第七ゑびす丸",
-      "period": "AM",
-      "status": "ok"
-    },
-    {
-      "date": "2026-07-03",
       "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
@@ -4221,1048 +5253,16 @@
       "status": "ok"
     },
     {
-      "date": "2026-04-05",
-      "company": "高島海上交通",
+      "date": "2026-07-03",
+      "company": "第七ゑびす丸",
       "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-05",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-06",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-06",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-07",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-07",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-08",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-08",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-09",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-09",
-      "company": "高島海上交通",
-      "period": "PM",
       "status": "ok"
     },
     {
-      "date": "2026-04-10",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-10",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-11",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-11",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-12",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-12",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-13",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-13",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-14",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-14",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-15",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-15",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-16",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-16",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-04-17",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-17",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-18",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-18",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-19",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-19",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-20",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-20",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-04-21",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-21",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-22",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-04-22",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-04-23",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-23",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-24",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-04-24",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-25",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-25",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-26",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-26",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-27",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-27",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-28",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-04-28",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-29",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-29",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-30",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-04-30",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-01",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-01",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-02",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-02",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-03",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-03",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-04",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-04",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-05",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-05",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-06",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-06",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-07",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-05-07",
-      "company": "高島海上交通",
+      "date": "2026-07-03",
+      "company": "第七ゑびす丸",
       "period": "PM",
       "status": "ok"
-    },
-    {
-      "date": "2026-05-08",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-08",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-09",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-09",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-10",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-10",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-11",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-11",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-12",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-12",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-13",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-13",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-14",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-14",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-15",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-15",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-16",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-16",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-17",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-17",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-18",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-18",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-19",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-19",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-20",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-20",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-21",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-21",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-22",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-22",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-23",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-23",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-24",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-24",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-25",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-25",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-26",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-26",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-05-27",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-27",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-28",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-28",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-29",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-29",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-30",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-30",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-31",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-05-31",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-01",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-01",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-02",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-02",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-03",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-03",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-04",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-04",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-05",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-05",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-06",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-06",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-07",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-07",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-08",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-08",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-06-09",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-09",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-10",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-10",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-11",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-11",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-12",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-12",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-13",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-13",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-14",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-14",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-15",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-15",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-16",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-16",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-17",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-06-17",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-18",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-18",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-06-19",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-19",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-20",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-20",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-21",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-21",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-06-22",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-22",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-06-23",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-23",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-24",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-06-24",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-25",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-25",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-06-26",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-26",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
-    },
-    {
-      "date": "2026-06-27",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-27",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-28",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-28",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-29",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-29",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-30",
-      "company": "高島海上交通",
-      "period": "AM",
-      "status": "cancel"
-    },
-    {
-      "date": "2026-06-30",
-      "company": "高島海上交通",
-      "period": "PM",
-      "status": "limited"
     }
   ]
 }
